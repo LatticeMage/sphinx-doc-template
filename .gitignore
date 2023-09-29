@@ -2,6 +2,7 @@ __pycache__/
 docs/_build/
 docs/api/
 *.zip
+*.tar
 
 
 /.vs
